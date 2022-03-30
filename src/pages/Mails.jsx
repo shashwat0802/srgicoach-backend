@@ -27,7 +27,7 @@ export default function Mails() {
   return (
     <div className="custom-login-bg">
       <Header />
-      <div className="container-fluid mx-auto shadow-lg rounded-md p-4 flex justify-center w-1/2 mt-8">
+      <div className="container mx-auto shadow-lg rounded-md p-4 flex justify-center w-1/2 mt-8">
         <div>
           <div className="row gy-5">
           <p className="text-xl text-center mb-4">VERIFY EMAILS</p>
