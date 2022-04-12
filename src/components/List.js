@@ -47,7 +47,7 @@ export default function List({ getProviders, id, email }) {
     }
   };
   return (
-    <div className="flex items-center my-2 ">
+    <div className="text-center  my-2 ">
       <input type="checkbox" checked={checked} onClick={handleCheckbox} />
       <label htmlFor="" className="mx-2">
         {email}
